@@ -1,5 +1,5 @@
-bin/
-pkg/
+bin
+pkg
 vendor
 ._*
 .DS_Store
